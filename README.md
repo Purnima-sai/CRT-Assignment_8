@@ -28,8 +28,6 @@ A responsive and interactive clone of the popular **BookMyShow** movie ticket bo
 
 > *(![image](https://github.com/user-attachments/assets/d4608567-b319-42f0-a5f1-ed3734ba1ec1)
 )*  
-![Screenshot](#)
-
 ---
 
 ## 📁 Project Structure
@@ -60,23 +58,7 @@ Edit
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork the repo and submit a pull request. 🙌
-
----
-
 ## 📬 Contact
-
-Made with ❤️ by Raiyan(#)  
-📧 Reach me at: 231fa04c91@gmail.com
+made by Purnima Sai
 
 ---
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-
-
-
